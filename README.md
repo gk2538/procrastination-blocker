@@ -5,11 +5,11 @@ psychological exploit awareness.
 
 ## Features
 
-✅ Blocks YouTube, Chess.com, Twitter, Reddit, Facebook, Instagram
-✅ Shows which exploits are targeting you
-✅ Forces self-reflection before bypass
-✅ Tracks patterns over time
-✅ Free & open source
+Blocks YouTube, Chess.com, Twitter, Reddit, Facebook, Instagram
+Shows which exploits are targeting you
+Forces self-reflection before bypass
+Tracks patterns over time
+Free & open source
 
 ## Installation
 
@@ -116,14 +116,7 @@ Free to use, modify, share. No attribution needed.
 
 Having issues? 
 - Check browser console (F12) for errors
-- Make sure Tampermonkey is enabled
+- Make sure Developer mode, Tampermonkey is enabled
 - Try incognito mode first
-
-## Next Steps
-
-After using for 2 weeks:
-1. Check your exploit patterns
-2. Identify your peak focus hours
-3. Build habits around your biology (not willpower)
 
 Good luck
