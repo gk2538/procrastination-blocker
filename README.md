@@ -47,8 +47,7 @@ psychological exploit awareness.
 When you try to visit a blocked site:
 - See your blocked page
 - Check which exploits are hitting you
-- Answer 4 reflection questions
-- Choose: Start focused work OR bypass (1 hour)
+- Choose: Start focused work OR bypass (5 minutes, 15 minutes, 1 hour)
 
 The more you use it, the more you understand your patterns.
 
@@ -127,4 +126,4 @@ After using for 2 weeks:
 2. Identify your peak focus hours
 3. Build habits around your biology (not willpower)
 
-Good luck! 🚀
+Good luck
